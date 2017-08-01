@@ -1,0 +1,5 @@
+/Users/kunaalkumar/RiderProjects/A-Star/A-Star/obj/Debug/A-Star.csprojResolveAssemblyReference.cache
+/Users/kunaalkumar/RiderProjects/A-Star/A-Star/bin/Debug/A_Star.exe
+/Users/kunaalkumar/RiderProjects/A-Star/A-Star/bin/Debug/A_Star.exe.mdb
+/Users/kunaalkumar/RiderProjects/A-Star/A-Star/obj/Debug/A_Star.exe
+/Users/kunaalkumar/RiderProjects/A-Star/A-Star/obj/Debug/A_Star.exe.mdb
